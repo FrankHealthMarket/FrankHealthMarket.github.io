@@ -1,10 +1,10 @@
 body {
   background-color: #202224;
 }
-#banner {
+#homebanner {
   padding-top: 6%;
   padding-bottom:6%;
-  background-image: url(banner.png);
+  background-image: url(homebanner.png);
   background-size: cover;
 }
 .default-div-box {
