@@ -1,10 +1,10 @@
 body {
   background-color: #202224;
 }
-#websitespan {
+#banner {
   padding-top: 6%;
   padding-bottom:6%;
-  background-image: url(websitespan.jpg);
+  background-image: url(banner.png);
   background-size: cover;
 }
 .default-div-box {
