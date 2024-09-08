@@ -1,1 +1,24 @@
-
+body {
+  background-color: #202224;
+}
+#websitespan {
+  padding-top: 6%;
+  padding-bottom:6%;
+  background-image: url(websitespan.jpg);
+  background-size: cover;
+}
+.default-div-box {
+  background-color:#303236;
+  border-radius: 15px;
+  padding: 15px;
+  width: 100%;
+}
+.alert-div-box {
+  background-color:#e83f4d;
+  border-radius: 15px;
+  padding: 25px;
+  width: 100%;
+}
+.navbar {
+  height:7vh;
+}
